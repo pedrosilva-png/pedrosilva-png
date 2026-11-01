@@ -1,7 +1,7 @@
 ## Pedro Henrique Rodrigues da Silva
 
 Estudante de **Sistemas de Informação (4º/8)**, estagiário de TI na **Prefeitura Municipal de Fernandópolis** e fundador da **[Cybhor Tech](https://cybhor.tech)**.  
-Construo software prático do levantamento ao deploy — aplicações web, APIs, automações e pipelines de IA aplicada.
+Construo software prático do levantamento ao deploy. aplicações web, APIs, automações e pipelines de IA aplicada.
 
 - Portfólio interativo: **[pedrosilva-png.github.io/portfolio](https://pedrosilva-png.github.io/portfolio/)**
 - Produto em operação: **[cybhor.tech](https://cybhor.tech)**
